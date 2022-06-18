@@ -15,7 +15,7 @@ body
     height: 50vw;
     width: 40vw;
     background-position: center;
-    background-image: url('./clock.png');
+    background-image: url('clock.png');
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
