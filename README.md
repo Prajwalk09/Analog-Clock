@@ -1,2 +1,2 @@
 # Analog-Clock
-Simple analog clock made using basic HTML,CSS and Javascript.
+Simple responsive analog clock made using basic HTML,CSS and Javascript.
